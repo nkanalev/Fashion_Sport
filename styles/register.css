@@ -1,0 +1,27 @@
+*, html, body, div, dl, dt, dd, ul, ol, li, h1, h2, h3, h4, h5, h6, pre, form, label, fieldset, input, p, blockquote, th, td{margin:0; padding:0}
+table{border-collapse:collapse; border-spacing:0}
+fieldset, img{border:0}
+address, caption, cite, code, dfn, em, strong, th, var{font-style:normal; font-weight:normal}
+ol, ul, li{list-style:none}
+caption, th{text-align:left}
+h1, h2, h3, h4, h5, h6{font-size:100%; font-weight:bold}
+strong{font-weight:bold}
+a img{border:none}
+.clearfix{clear: both;}
+
+h3{text-transform:uppercase;border-bottom: 2px solid #c9c9c9; width: 530px;}
+h4{text-transform:uppercase;margin-top:15px;}
+.register_form{width:760px; margin: 0 auto;position: relative; float: left;margin-left:20px}
+section h4{border-bottom:2px solid #c9c9c9;margin-top:35px;}
+.mailandpass{width:400px;}
+.mailandpass div{margin-top:15px}
+.personal_info{width:540px;}
+.left{position:relative;float:left;width:260px;}
+.left div{margin-top:15px}
+.right{position:relative;margin-left:15px;float:left;width:260px;}
+.right div{margin-top:15px}
+.buttonstyle{width:300px;position:relative;float:right;margin-top:20px;}
+input{position:relative;float:right;margin-right:5px;}
+button{position:reative;float:left;width:130px;height:30px;}
+select{margin-left:10px;float:right;}
+

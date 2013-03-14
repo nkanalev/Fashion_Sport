@@ -1,0 +1,38 @@
+/*RESETS*/
+            *, html, body, div, dl, dt, dd, ul, ol, li, h1, h2, h3, h4, h5, h6, pre, form, label, fieldset, input, p, blockquote, th, td{margin:0; padding:0}
+            table{border-collapse:collapse; border-spacing:0}
+            fieldset, img{border:0}
+            address, caption, cite, code, dfn, em, strong, th, var{font-style:normal; font-weight:normal}
+            ol, ul, li{list-style:none}
+            caption, th{text-align:left}
+            h1, h2, h3, h4, h5, h6{font-size:100%; font-weight:bold}
+            strong{font-weight:bold}
+            a img{border:none}
+            .clearfix{clear: both;}
+
+
+            body {color: #222222; font-family: Arial, Helvetica, sans-sherif; font-size: 100%;}
+            #wrapper {width: 960px; margin: 0 auto;}
+            .list article {float: left; margin-right: 25px;}
+            .list article div {width: 303px; position: relative;}
+            .list article .featured_title {position: relative; top: 231px; z-index: 100; background-color: #000; opacity:0.8; width: 303px; height: 30px; font-size: 0.8em; font-weight:bold; line-height: 2.3em;}
+            .list article .featured_image {width: 303px; height: 231px;}
+            .list article .featured_title a {color: #0b96d0; text-decoration: none; padding-left: 10px;}
+            .list article .featured_title a:hover {color: #0b96d0;}
+            .list article .date {color: #8a8a8a; font-size: 0.8em; margin: 8px 0;}
+            .list article .text{text-align: center}
+            .list article .text p {font-size: 1em; line-height: 1.5em; text-align: center;display:inline;text-decoration: none}
+            .list article .text a {font-size: 1em; line-height: 1.5em; text-align: center;display:inline;}
+            
+            .list article:last-child {margin-right: 0px;}
+            #list1 {margin-bottom: 430px;}
+            #categoty{width: 780px; margin-left:20px;position:relative;float: left;}
+            #categoty article {width: 187px; margin-right: 10px;}
+            #categoty article div {width: 187px;}
+            #categoty article .featured_title {position: relative; top: 187px; width: 187px;}
+            #categoty article .featured_image {width: 187px; height: 187px;}
+            .featured_image img{width: 187px; height: 187px;}
+            #categoty article:nth-child(4n+0) {margin-right: 0px;}
+            #categoty article:nth-child(4n+1) {clear: left;}
+            
+           

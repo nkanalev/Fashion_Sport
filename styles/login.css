@@ -1,0 +1,17 @@
+*, html, body, div, dl, dt, dd, ul, ol, li, h1, h2, h3, h4, h5, h6, pre, form, label, fieldset, input, p, blockquote, th, td{margin:0; padding:0}
+table{border-collapse:collapse; border-spacing:0}
+fieldset, img{border:0}
+address, caption, cite, code, dfn, em, strong, th, var{font-style:normal; font-weight:normal}
+ol, ul, li{list-style:none}
+caption, th{text-align:left}
+h1, h2, h3, h4, h5, h6{font-size:100%; font-weight:bold}
+strong{font-weight:bold}
+a img{border:none}
+.clearfix{clear: both;}
+
+.login_menu{width:300px; margin: 0 auto;position: relative; float: left;margin-left:20px}
+.login_menu h3{text-transform:uppercase;border-bottom: 2px solid #c9c9c9}
+.login_menu div{margin-top:15px}
+.login_menu input{position:relative;float:right;margin-right:5px;}
+.login_menu button{position:relative;float:right;margin-top: 10px}
+.login_menu select{margin-left:10px;}
